@@ -11,5 +11,6 @@
 | [perceptron-adaline](perceptron-adaline/) | Персептрон и Adaline | Бинарная классификация |
 | [perceptron-hebb](perceptron-hebb/) | Персептрон, правило Хебба | Разделение двух множеств точек на плоскости |
 | [logistic-regression](logistic-regression/) | Логистическая регрессия | Вероятность неисправности двигателя, нелинейный признак |
+| [logistic-regression-regularization](logistic-regression-regularization/) | Логистическая регрессия с регуляризацией | Полиномиальные признаки, L1, L2 и Elastic Net для классификации микрочипов |
 
 Запуск: `pip install -r requirements.txt`, затем `jupyter notebook`.
