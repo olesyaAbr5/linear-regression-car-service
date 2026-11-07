@@ -8,7 +8,7 @@
 |---|---|---|
 | [linear-regression](linear-regression/) | Линейная регрессия одной переменной | Прогноз прибыли автосервиса по числу автомобилей в городе |
 | [linear-regression-multi](linear-regression-multi/) | Линейная регрессия нескольких переменных | Градиентный спуск и нормальное уравнение |
-| [perceptron-adaline](perceptron-adaline/) | Персептрон и Adaline | Бинарная классификация видов ирисов |
+| [perceptron-adaline](perceptron-adaline/) | Персептрон и Adaline | Бинарная классификация |
 | [perceptron-hebb](perceptron-hebb/) | Персептрон, правило Хебба | Разделение двух множеств точек на плоскости |
 | [logistic-regression](logistic-regression/) | Логистическая регрессия | Вероятность неисправности двигателя, нелинейный признак |
 
